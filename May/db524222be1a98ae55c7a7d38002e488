@@ -1,0 +1,16 @@
+Photo: CCTV
+
+ 
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890803011687749","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890803011687749",
+                       option
+                   );
+             })()
+ 
+A minute of silence was observed at the opening ceremony of the 3rd session of 13th Chinese People's Political Consultative Conference (CPPCC) National Committee on Thursday afternoon to mourn the victims of the COVID-19 and those who sacrificed in the fight against the epidemic. Chinese President Xi Jinping and other Chinese leaders mourned the lives lost to COVID-19 as the country's top political advisory body began its annual session at the Great Hall of the People in Beijing on Thursday.They joined members of the National Committee of the Chinese People's Political Consultative Conference to pay tribute to martyrs who died fighting COVID-19 and compatriots who lost their lives in the epidemic.The minute of silence was proposed on February 19 by Feng Danlong, a member of the CPPCC National Committee, through the CPPCC's online proposal system. She received a reply from the office of the national committee for proposals a day after she handed it in, saying it had been accepted. Feng told the Workers' Daily recently that at 142 words, it was the shortest proposal she has submitted since becoming a member of the CPPCC National Committee, and received the fastest reply, she said. The proposal not only shows people's respect for life, but also proves that the CPPCC office is seeking truth from facts in the process of receiving members' proposals and finding innovative ways to perform its duties, Feng said, noting that the online proposal system has provided a convenient channel for political participation. Millions of netizens also expressed their tribute, leaving candles and comments on Sina Weibo on Thursday. Previously, China's top advisory body paid a silent tribute to the victims of the March 1 terrorist attack in the Southwestern city of Kunming at the opening of the second session of the 12th CPPCC National Committee at the Great Hall of the People in Beijing on March 3, 2014.China held three minutes of silence on April 4 for those who died in the fight against the COVID-19 and those who died of the disease. National flags flew at half-mast across the country and in all Chinese embassies and consulates, and public recreational activities were suspended, while air raid sirens and horns of automobiles, trains and ships wailed. Xi has led other Chinese leaders attending the national mourning.Global TimesNewspaper headline: Top advisory body observes a minute of silence for virus victims Massive changes to California voting spark fears of Iowa-style primary chaosAsian Americans wait for their turn to shine in HollywoodCal's epidemic protection services still have room for improvement
