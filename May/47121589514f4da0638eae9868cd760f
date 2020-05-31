@@ -1,0 +1,20 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890803653942275","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890803653942275",
+                       option
+                   );
+             })()
+ 
+
+
+Photo: Hao Yutong, Yao Junpeng
+
+Photo: Hao Yutong, Yao Junpeng
+
+Photo: Hao Yutong, Yao JunpengChina successfully launched a high-resolution new Earth observation satellite, the Gaofen-9 02, as well as a narrowband Internet of Things (IoT) satellite named Hede-4 into planned orbit from the Jiuquan Satellite Launch Center in Northwest China's Gansu Province at around 4:53 pm on Sunday. The launch mission was carried out by a Long March-2D rocket, marking the 333rd flight of the Long March carrier rocket family.The Gaofen-9 02 is an optical remote sensing satellite that is capable of providing photographs with a resolution of less than a meter. It will be used in land survey, urban planning, road network design, agriculture, and disaster relief, and support the construction of the China-proposed Belt and Road Initiative.The Hede-4 satellite is developed by the China Head Aerospace Technology Co from Beijing and is tasked with carrying out status collection of global ship naviga-tion and global flights as well as IoT information. 
+        RELATED ARTICLES:  China launches two new technology experiment satellites China launches new tech observation satellites  China to launch last satellite in the Beidou-3 Navigation Satellite System in June Massive changes to California voting spark fears of Iowa-style primary chaosAsian Americans wait for their turn to shine in HollywoodCal's epidemic protection services still have room for improvement
