@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890802989466443","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890802989466443",
+                       option
+                   );
+             })()
+ 
+Video: Zheng Xiaohu, Feng Yang and Wang YeChina successfully sent a newly developed maritime environment monitoring satellite into orbit at 2:31 am on Thursday.The satellite, codenamed HY-1D, was developed by the state-owned space giant China Aerospace Science and Technology Corporation (CASC), and will form a network with the HY-1C. The network will be mainly used to obtain dynamic ocean environment data, such as sea surface temperatures, and monitor environmental changes in China's coastal waters and coastal zones in key global regions as well as marine vessel information, Global Times has learned from the space authority.It will also provide services including oceanic environment monitoring and forecasts, maritime disaster early warning, maritime right protection and law enforcement, and scientific research. The satellite was launched by the Long March-2C carrier rocket from the Taiyuan Satellite Launch Center in North China's Shanxi Province.The launch mission also marked the 334th flight of the Long March rocket family.
+
+Photo: Courtesy of Zheng Taotao   
+        RELATED ARTICLES:  Satellite stocks post gains on news of final BeiDou launch China sends new Earth observation and IoT satellites into space Massive changes to California voting spark fears of Iowa-style primary chaosAsian Americans wait for their turn to shine in HollywoodCal's epidemic protection services still have room for improvement
