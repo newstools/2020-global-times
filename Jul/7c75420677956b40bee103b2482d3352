@@ -1,0 +1,7 @@
+(function(){
+               var option ={"auto_play":"0","file_id":"5285890805016231928","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890805016231928[leftSelectionMarker_Sm2r7MFo34][rightSelectionMarker_b4SZj32Nod]",
+                       option
+                   );
+             })() Massive changes to California voting spark fears of Iowa-style primary chaosAsian Americans wait for their turn to shine in HollywoodCal's epidemic protection services still have room for improvement
