@@ -1,0 +1,14 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option = 
+{"auto_play":"0","file_id":"5285890806630829132","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890806630829132",
+                       option
+                   );
+             })()
+ 
+Huawei released its new flagship MateBook X Pro on Wednesday, rapidly moving into the laptop market contest as its rising mobile business was hit hard by intensified US government assault over the past year. Year of the Rat stampSpectators dazzled at 131st Rose ParadeDiving Santa Global Times and Pakistan Observer signs MoUThe 3rd Sino-Nordic Cup Football Tournament draws crowdsGlobal Times begins cooperation with Sputnik
