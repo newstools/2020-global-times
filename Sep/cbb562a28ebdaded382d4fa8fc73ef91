@@ -1,0 +1,16 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890807208710277","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890807208710277",
+                       option
+                   );
+             })()
+ 
+ 
+
+A staff member displays samples of the COVID-19 inactivated vaccine at Sinovac Biotech Ltd., in Beijing, capital of China. Photo: XinhuaTwo of China's vaccine front runners - among the most attention-grabbing at this year's services trade fair in Beijing - offer some insight into the country's leadership in pharmaceutical research against the COVID-19 pandemic. "We have launched [coronavirus vaccine] clinical research in many countries including the United Arab Emirates, Bahrain, Argentina, Peru, and Morocco. Meanwhile, we have also maintained close communication with the WHO and joined the WHO-initiated solidarity trial for COVID-19 treatments," Zhang Yuntao, vice president and chief scientist of China National Biotec Group (CNBG), told the Global Times on Friday. His comment is made on Friday before the opening of China International Fair for Trade in Services (CIFTIS) in Beijing, the first major offline international trade fair following its effective containment of COVID-19.Among CNBG's product lineup on display at the event are its inactivated vaccine and immune globulin for COVID-19 treatment.It's hoped that the event can serve as a platform to ramp up global regulatory cooperation to begin delivering COVID-19 vaccines to the masses as quickly and safely as possible, Pearson Liu, spokesman for NASDAQ-listed Chinese vaccine developer Sinovac Biotech, told the Global Times on Friday. Sinovac's inactivated vaccine against COVID-19 - CoronaVac - is also showcased at the services tradeshow. For the COVID-19 vaccine to be made available to the public, a Phase III clinical study must be completed, and study results must be approved by the regulatory authorities, Liu said, disclosing that the company is hoping for the vaccine to be licensed for use by the year's end.Analysis and clinical trials for the vaccine are being completed domestically as well as in countries such as Brazil and Indonesia, with original data in the hands of local researchers. There is no precedence for Phase III clinic trials conducted overseas to be evaluated for a license to be granted domestically. Liu revealed he had received multiple inquiries from overseas media outlets which were eager to know whether the company's vaccine would be registered in and shipped to their respective markets.Sinovac's designed production capacity for the vaccine is 300 million doses per annum.  
+        RELATED ARTICLES:  SINOVAC vaccine discussed at the China International Fair for Trade in Service China's overseas phase-3 vaccine trials attract Western media attention Year of the Rat stampSpectators dazzled at 131st Rose ParadeDiving Santa Global Times and Pakistan Observer signs MoUThe 3rd Sino-Nordic Cup Football Tournament draws crowdsGlobal Times begins cooperation with Sputnik
