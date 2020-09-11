@@ -1,0 +1,14 @@
+当前浏览器不能支持视频播放，可下载最新的QQ浏览器或者安装FLASH即可播放
+
+
+
+            (function(){
+               var option ={"auto_play":"0","file_id":"5285890807496189803","app_id":"1253985869","width":1920,"height":1080,"https":1};
+               new qcVideo.Player(
+                       "id_video_container_5285890807496189803",
+                       option
+                   );
+             })()
+ 
+The Chinese People's Liberation Army (PLA) Tibet Military Command recently adopted UAVs — or drones — to provide logistics support for its troops that are currently stationed at an elevation of 4,500 meters completing exercise drills, with some military analysts believing the decision to employ such innovative technologies showcases the PLA’s new modernized logistics support means while also exhibiting that China is prepared for potential conflict while engaging in negotiations with India. In a video released by China Central Television, PLA logistics soldiers were seen transporting hot food with ground vehicles. In locations where the road was blocked, however, they packed the food, water and medicine, before putting them into several unmanned aerial vehicles (UAVs) that automatically delivered the “care packages” to front-line soldiers. The drills explored new logistics support modes by combining both ground and aerial means. Such logistics support could be vital if the PLA soldiers were forced to engage in military conflict.Song Zhongping, a military expert and TV commentator, told the Global Times on Friday that logistics such as those on display in the drill are key for soldiers’ performance in military conflicts, and logistics support can be very difficult in complex plateau areas. As such, they would require multiple methods to provide support including UAVs and other aviation equipment. Drones can be employed to quickly make delivery at designated points, improving the PLA’s combat effectiveness, Song said.The video also showed that China is preparing for further potential military conflicts while continuing to engage in military and diplomatic negotiations with India, Song said. The use of UAVs is an important embodiment of future unmanned warfare. UAVs can provide assistance in both combat missions and logistics support, and the PLA has shown its desire to take advantage of the drones to prepare for future military conflict, Song said.  
+        RELATED ARTICLES:  PLA Tibet military command conducts drills targeting hostile hubs in mountainous region amid border tensions Massive changes to California voting spark fears of Iowa-style primary chaosAsian Americans wait for their turn to shine in HollywoodCal's epidemic protection services still have room for improvement
